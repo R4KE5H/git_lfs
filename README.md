@@ -1,4 +1,4 @@
-# git_lfs
+# Git LFS
 
 How to git push large files to github!!...
 

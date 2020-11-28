@@ -13,7 +13,7 @@ So how do we push large files like audios, videos, datasets and graphics to GitH
 
 "Git Large File Storage (LFS) replaces large files such as audio samples, videos, datasets, and graphics with text pointers inside Git"
 
-How to get started with Git LFS?(This is what i did..)
+# How to get started with Git LFS?(This is what i did..)
 
 1.Download and install the Git command line extension. Once downloaded and installed, set up Git LFS for your user account by running.
 

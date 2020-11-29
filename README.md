@@ -22,7 +22,7 @@ So how do we push large files like audios, videos, datasets and graphics to GitH
 
 3.Secondly, Place the larger files inside your local repo that was pushed earlier.
 
-4.Thridly, In Git repository where you want to use Git LFS,select the file types, for example use this command which is given below(according to your file types).
+4.Thridly, In the Git repository where you want to use Git LFS,select the file types, for example use this command which is given below(according to your file types).
 
 For example:
 -> git lfs track "*.psd"

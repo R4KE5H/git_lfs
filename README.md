@@ -36,8 +36,8 @@ For example:
 
 
 Reference: 
-https://git-lfs.github.com./
-Dataset - https://www.kaggle.com/rounakbanik/the-movies-dataset?select=ratings.csv
+https://git-lfs.github.com./, 
+Dataset - https://www.kaggle.com/rounakbanik/the-movies-dataset?select=ratings.csv, 
 https://github.com/R4KE5H/git_lfs
 
 

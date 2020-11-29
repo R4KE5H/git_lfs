@@ -4,8 +4,7 @@ How to git push large files to github!!...
 
 Do you know how to git push large files to github? This post will be helpful for you to push larger files in github.
 
-When i tried to git push this “ratings.csv” file into my Github repo, it throwed some error because the file was larger than 100 mb.it was really annoying, but i got to 
-know about Git LFS an open source to push large files to Github by using few commands.
+When i tried to git push this “ratings.csv” file into my Github repo, it throwed some error because the file was larger than 100 mb. It was really annoying, and eventually i got to know about Git LFS an open source to push large files to Github by using few commands.
 
 So how do we push large files like audios, videos, datasets and graphics to GitHub?  
 
